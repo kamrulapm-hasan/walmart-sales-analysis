@@ -20,6 +20,12 @@ This project explores weekly Walmart sales data using Python. The analysis focus
 - Matplotlib
 - Jupyter Notebook
 
+## Dataset
+
+The Walmart dataset was provided by the instructor as part of the Applied Programming course at the University of Inland Norway.
+
+The dataset is not included in this repository. The analysis was performed using the dataset provided for the course.
+
 ## Analysis
 
 The analysis includes:
